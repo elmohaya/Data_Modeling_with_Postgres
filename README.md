@@ -2,7 +2,7 @@
 
 - In this project we use Postgres and the star schema to model a database for the songs apllication Sparkify (vertual application).
 
-## Files
+### Files
 - This project constitutes several files, including:
 
  1- create_tables.py -- used to drop and creat tables at the initial step.
@@ -18,7 +18,7 @@
  6- test.ipynb -- this file is to test the database after insertion is completed.
  
 
- ## Tables
+ ### Tables
  
  - We will be creating five tables, one is the fact whereas all the others are dimension tables. Here are the tables:
  
