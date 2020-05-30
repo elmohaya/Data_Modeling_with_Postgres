@@ -23,8 +23,12 @@
  - We are creating five tables, one is the fact whereas all the others are dimension tables. Here are the tables:
  
  1- songplays -- the fact table.
+ 
  2- songs -- gives details about the song.
+ 
  3- users -- includes the users data.
+ 
  4- artist -- has the information about artists.
+ 
  5- time -- organizes days, months, years, and hours into column for easier readings.
  
